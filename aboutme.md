@@ -3,7 +3,7 @@ layout: page
 title: About me
 # subtitle: Why you'd want to go on a date with me
 ---
-# About Aishwarya Patil 🌟
+# About Aishwarya Patil 
 
 Hello there! I'm Aishwarya Patil, and I'm delighted to welcome you to my corner of the internet. 🌐
 
